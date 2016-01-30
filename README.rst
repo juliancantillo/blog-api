@@ -1,7 +1,7 @@
 Blog API
 ==============================
 
-A Blog API
+A Blog API for your next blogging application
 
 
 LICENSE: BSD
